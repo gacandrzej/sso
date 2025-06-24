@@ -7,11 +7,14 @@
 - [Ćwiczenia 5 - Tworzenie konta, parametry Linux Ubuntu (v1)](Ćwiczenia_5_tworzenie_konta_parametry_linux_ubuntu_v1.pdf)
 - [Ćwiczenia 6 - Konto, chage, passwd, parametry, SSH Linux Ubuntu (v1)](Ćwiczenia_6_konto_chage_passwd_parametry_ssh_linux_ubuntu_v1.pdf)
 - [Ćwiczenia 7 - Linux Ubuntu: 7zip, gzip, bzip2, tar (v5)](Ćwiczenia_7_linux_ubuntu_7zip_gzip_bzip2_tar_v5.pdf)
-- [Ćwiczenia 8 - Ubuntu Server, serwer vsFTPd SSL VirtualBox (v7)](Ćwiczenia_8_ubuntu_server_serwer_vsFTPd_SSL_virtualbox_v7.pdf)
+- [Ćwiczenia 8 - Ubuntu Server, serwer vsFTPd SSL VirtualBox ze źródeł (v7)](Ćwiczenia_8_ubuntu_server_serwer_vsFTPd_SSL_virtualbox_v7.pdf)
 - [Ćwiczenia 9 - Prawa do plików Linux Ubuntu (v2)](Ćwiczenia_9_prawa_do_plikow_linux_ubuntu_v2.pdf)
 - [Ćwiczenia 10 - Prawa do plików, chown Linux Ubuntu (v1)](Ćwiczenia_10_prawa_do_plikow_chown_linux_ubuntu_v1.pdf)
 - [Ćwiczenia 11 - Ubuntu, zapora sieciowa VirtualBox (v4)](Ćwiczenia_11_ubuntu_zapora_sieciowa_virtualbox_v4.pdf)
 - [Ćwiczenia 12 - Przyłączanie serwera do sieci Ubuntu Server (v8)](Ćwiczenia_12_przylaczanie _serwera_do_sieci__server_ubuntu_v8.pdf)
+
+## Część usługi linux:
+
 - [Ćwiczenia 13 - SAMBA Ubuntu Server VirtualBox (v7)](Ćwiczenia_13_SAMBA_ubuntu-server_virtualbox_v7.pdf)
 - [Ćwiczenia 14 - SAMBA AD DC Ubuntu Server VirtualBox (v5)](Ćwiczenia_14_SAMBA_AD_DC_ubuntu-server_virtualbox_v5.pdf)
 - [Ćwiczenia 15 - Linux Ubuntu, crontab, at (v7)](Ćwiczenia_15_linux_ubuntu_crontab_at_v7.pdf)
@@ -22,6 +25,7 @@
 - [Ćwiczenia 20 - Serwer Ubuntu DNS VirtualBox (v8)](Ćwiczenia_20_server_ubuntu_DNS_virtualbox_v8.pdf)
 - [Ćwiczenia 21 - Ubuntu vsftpd VirtualBox (v11)](Ćwiczenia_21_ubuntu_vsftpd_virtualbox_v11.pdf)
 - [Ćwiczenia 22 - Ubuntu Server, serwer Apache, instalacja ze źródeł (v7)](Ćwiczenia_22_ubuntu_server_serwer_Apache_instalacja_ze_«r˘de_v7.pdf)
+## Część windows server:
 - [Ćwiczenia 23 - AD, mapowanie VirtualBox (v3)](Ćwiczenia_23_AD_mapowanie_virtualbox_v3.pdf)
 - [Ćwiczenia 24 - Profil mobilny VirtualBox (v4)](Ćwiczenia_24_profil_mobilny_virtualbox_v4.pdf)
 - [Ćwiczenia 27 - Przekierowanie folderów VirtualBox (v3)](Ćwiczenia_27_przekierowanie_folderow_virtualbox_v3.pdf)
@@ -43,4 +47,5 @@
 - [Ćwiczenia 54 - Windows Server Update Services WSUS, Windows Server 2022 (v1)](Ćwiczenia_54_Windows_Server_Update_Services_WSUS_Win_Serv_2022_v1_online.pdf)
 - [Ćwiczenia 55 - Hyper-V Windows Server 2022 (v2)](Ćwiczenia_55_Hyper-V_Win_Serv_2022_v2_online.pdf)
 - [Ćwiczenia 56 - Serwer Windows 2022, instalacja usługi drukowania, GPO (v3)](Ćwiczenia_56_serwer_windows_2022_instalacja_uslugi_drukowania__GPO_v3.pdf)
+## Inne:
 - [Ćwiczenia 61 - Ubuntu Server, serwer Windows 11, VPN WireGuard (v1)](Ćwiczenia_61_ubuntu_server_serw_win11_VPN_wireguard_v1.pdf)
