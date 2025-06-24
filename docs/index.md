@@ -1,4 +1,4 @@
-# Spis treści - Ćwiczenia serwerowe
+# Spis treści - Ćwiczenia serwerowe systemy operacyjne
 
 ---
 
@@ -65,4 +65,5 @@
 
 ---
 
-
+*Opracował: **Andrzej Gac***  
+*Data: **24.06.2025***
